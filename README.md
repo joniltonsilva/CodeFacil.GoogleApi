@@ -1,6 +1,10 @@
 ## Signin G+ Plugin for Xamarin Forms
 Package Nuget for Signin G+ in Xamarin Forms
 
+### Setup
+* Available on NuGet: http://www.nuget.org/packages/CodeFacil.GoogleApi [![NuGet](https://img.shields.io/nuget/v/Plugin.Permissions.svg?label=NuGet)](https://www.nuget.org/packages/CodeFacil.GoogleApi/)
+* Install into your PCL project and Client projects.
+
 **Platform Support**
 
 |Platform|Version|
@@ -58,5 +62,5 @@ public class GoogleApiStatus
 
 Thanks!
 
-# License
+#### License
 Licensed under main repo license(MIT)
