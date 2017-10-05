@@ -23,7 +23,7 @@ Call **CrossCodeFacil.Current.GoogleApi().SignIn** from any project or PCL to ga
 ```csharp
 CrossCodeFacil.Current.GoogleApi().SignIn((result) =>
 {
-    if (result.IsSucess)
+    if (result.IsSuccess)
     {
        GoogleApiAccount account = result.Account; 
     }
